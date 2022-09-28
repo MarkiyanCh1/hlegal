@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2cf7b3af-04e8-43b9-8742-7eddb4a8797e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/Wigs__menu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Group-1title.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/basket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/person.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/CircularStd-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/CircularStd-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/CircularStd-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/common/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/common/common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/common/extends.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/common/fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/common/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/common/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/common/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/common/reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/common/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/components/header/header-media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/components/header/header-media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/components/header/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/components/header/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/index.scss" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="HTML File" />
+        <option value="Sass File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="autoscrollToSource" value="true" />
+  </component>
+  <component name="ProjectId" id="29Tvr4cvSui2wXaw74MvG87yYuO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/WebstormProjects/Wigs__menu&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;Sass&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;C:\\Users\\User\\WebstormProjects\\Wigs__menu\\node_modules\\stylelint&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\User\\WebstormProjects\\Wigs__menu\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cf7b3af-04e8-43b9-8742-7eddb4a8797e" name="Changes" comment="" />
+      <created>1653150084751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653150084751</updated>
+      <workItem from="1653150086260" duration="1263000" />
+      <workItem from="1653151548556" duration="1428000" />
+      <workItem from="1653156897004" duration="193000" />
+      <workItem from="1653157109815" duration="583000" />
+      <workItem from="1653158037447" duration="705000" />
+      <workItem from="1653158767980" duration="43000" />
+      <workItem from="1653158834435" duration="804000" />
+      <workItem from="1653220719087" duration="1226000" />
+      <workItem from="1653222130685" duration="258000" />
+      <workItem from="1653223141325" duration="193000" />
+      <workItem from="1653229960685" duration="493000" />
+      <workItem from="1653230553192" duration="81000" />
+      <workItem from="1653230649478" duration="1620000" />
+      <workItem from="1653232302196" duration="1785000" />
+      <workItem from="1653235259970" duration="369000" />
+      <workItem from="1653235673922" duration="2569000" />
+      <workItem from="1653332779419" duration="1329000" />
+      <workItem from="1653334421146" duration="1361000" />
+      <workItem from="1653576288938" duration="2473000" />
+      <workItem from="1653728698475" duration="21000" />
+      <workItem from="1653728752743" duration="69000" />
+      <workItem from="1653728854147" duration="599000" />
+      <workItem from="1654522402088" duration="1714000" />
+      <workItem from="1663146356077" duration="112000" />
+      <workItem from="1664382849190" duration="106000" />
+      <workItem from="1664382986242" duration="158000" />
+      <workItem from="1664383201823" duration="1053000" />
+      <workItem from="1664384330873" duration="137000" />
+      <workItem from="1664384493954" duration="813000" />
+      <workItem from="1664385467698" duration="280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
